@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  MyfirstApp
+//  Ui1
 //
-//  Created by Hyun Seo Jung on 2023/06/13.
+//  Created by Hyun Seo Jung on 2023/06/14.
 //
 
 import SwiftUI
@@ -10,10 +10,10 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Text("Hello, Hyunseo!")
-                .font(.largeTitle)
-                .fontWeight(.bold)
-                .foregroundColor(Color.orange)
+            Image(systemName: "globe")
+                .imageScale(.large)
+                .foregroundColor(.accentColor)
+            Text("Hello, world!")
         }
         .padding()
     }
@@ -21,8 +21,6 @@ struct ContentView: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        
-        
         ContentView()
     }
 }
