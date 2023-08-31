@@ -1,13 +1,13 @@
 //
-//  MyFirstAppUITestsLaunchTests.swift
-//  MyFirstAppUITests
+//  Ui_basicUITestsLaunchTests.swift
+//  Ui_basicUITests
 //
-//  Created by Hyun Seo Jung on 2023/08/29.
+//  Created by Hyun Seo Jung on 2023/08/30.
 //
 
 import XCTest
 
-final class MyFirstAppUITestsLaunchTests: XCTestCase {
+final class Ui_basicUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

@@ -1,14 +1,14 @@
 //
-//  MyFirstAppApp.swift
-//  MyFirstApp
+//  Ui_basicApp.swift
+//  Ui_basic
 //
-//  Created by Hyun Seo Jung on 2023/08/29.
+//  Created by Hyun Seo Jung on 2023/08/30.
 //
 
 import SwiftUI
 
 @main
-struct MyFirstAppApp: App {
+struct Ui_basicApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

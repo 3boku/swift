@@ -1,13 +1,13 @@
 //
-//  MyFirstAppUITestsLaunchTests.swift
-//  MyFirstAppUITests
+//  Swift_GrammerUITestsLaunchTests.swift
+//  Swift_GrammerUITests
 //
 //  Created by Hyun Seo Jung on 2023/08/29.
 //
 
 import XCTest
 
-final class MyFirstAppUITestsLaunchTests: XCTestCase {
+final class Swift_GrammerUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
